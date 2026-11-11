@@ -1,0 +1,25 @@
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Flutter
+.dart_tool/
+build/
+.flutter-plugins-dependencies
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
